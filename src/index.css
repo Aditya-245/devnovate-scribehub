@@ -4,11 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Devnovate Blogging Platform Design System */
+/* Blogify Blogging Platform Design System */
 
 @layer base {
   :root {
-    /* Devnovate Brand Colors */
+  /* Blogify Brand Colors */
     --primary: 210 40% 15%; /* #1E293B - Slate 800 */
     --primary-foreground: 0 0% 98%;
     

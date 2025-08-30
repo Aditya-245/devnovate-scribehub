@@ -34,7 +34,7 @@ export const Header = () => {
             <div className="h-8 w-8 rounded-lg bg-gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">D</span>
             </div>
-            <span className="font-heading font-bold text-xl">Devnovate</span>
+            <span className="font-heading font-bold text-xl">Blogify</span>
           </Link>
         </div>
 

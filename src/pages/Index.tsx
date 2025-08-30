@@ -66,7 +66,7 @@ const Index = () => {
       <section className="bg-gradient-primary text-primary-foreground py-20">
         <div className="container text-center">
           <h1 className="font-heading text-4xl md:text-6xl font-bold mb-6">
-            Welcome to Devnovate
+            Welcome to Blogify by Devnovate
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
             A platform where developers share knowledge, insights, and innovative ideas. 

@@ -10,7 +10,7 @@ export const Footer = () => {
               <div className="h-8 w-8 rounded-lg bg-gradient-primary flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-sm">D</span>
               </div>
-              <span className="font-heading font-bold text-xl">Devnovate</span>
+              <span className="font-heading font-bold text-xl">Blogify</span>
             </div>
             <p className="text-muted-foreground text-sm">
               A platform for developers to share knowledge, insights, and innovative ideas.
@@ -46,7 +46,7 @@ export const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>&copy; 2024 Devnovate. All rights reserved.</p>
+          <p>&copy; 2024 Blogify. All rights reserved.</p>
         </div>
       </div>
     </footer>

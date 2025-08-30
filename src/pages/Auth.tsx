@@ -76,7 +76,7 @@ const Auth = () => {
           <div className="h-12 w-12 rounded-lg bg-gradient-primary flex items-center justify-center mx-auto mb-4">
             <span className="text-primary-foreground font-bold text-lg">D</span>
           </div>
-          <h1 className="font-heading text-2xl font-bold">Welcome to Devnovate</h1>
+          <h1 className="font-heading text-2xl font-bold">Welcome to Blogify</h1>
           <p className="text-muted-foreground">Join our community of developers</p>
         </div>
 
@@ -132,7 +132,7 @@ const Auth = () => {
               <CardHeader>
                 <CardTitle>Create Account</CardTitle>
                 <CardDescription>
-                  Join Devnovate and start sharing your knowledge
+                  Join Blogify and start sharing your knowledge
                 </CardDescription>
               </CardHeader>
               <CardContent>
